@@ -48,6 +48,54 @@ They shared how dedication and involvement beyond the classroom shaped their suc
 We thank our guests and speakers for sharing their inspiring words!
 
 # Day 2
+# CSE & IT Induction Day – 2025
+
+Welcome to the official repository for the **CSE & IT Induction Day 2025** at GNDEC.
+
+This repository includes the full schedule, expert lecture details, and induction activities.
+
+---
+
+## 🗓️ Event Schedule
+
+### ⏰ 9:30 AM – 10:30 AM
+**English Proficiency Test**  
+- CSE-A → Room No. F-106  
+- CSE-B → Room No. F-107  
+- CSE-C → Room No. F-108  
+- CSE-D → Room No. F-109  
+- CSE-E → Room No. F-112  
+- CSE-F + IT-D → Room No. F-113  
+- IT-A → Room No. F-114  
+- IT-B → ME SEM HALL  
+- IT-C → Workshop SEM HALL
+
+---
+
+### ⏰ 10:30 AM – 11:30 AM
+**Maths Proficiency Test**  
+*Venue same as previous*
+
+---
+
+### ⏰ 11:30 AM – 1:00 PM
+**Break**
+
+---
+
+### ⏰ 1:00 PM – 2:00 PM
+**Expert Lecture**  
+By *Dr. Arashdeep Singh* on  
+🎓 *"Food: A Pivotal Role in Student's Overall Wellness"*  
+📍 **Venue:** Auditorium
+
+---
+
+### ⏰ 2:00 PM – 3:00 PM
+**Session by Causmic Club**  
++ **Launch of Induction Activities**  
+📍 **Venue:** Auditorium
+
 
 
 - 
