@@ -1,6 +1,6 @@
 # Day 1
-## 8.30 to 9.30
-- Great! Here's how your GitHub repository for "Induction Day" can be structured:
+
+
 
 
 ---
@@ -95,7 +95,45 @@ By *Dr. Arashdeep Singh* on
 **Session by Causmic Club**  
 + **Launch of Induction Activities**  
 📍 **Venue:** Auditorium
+# Day 3
+# Universal Human Values – Lecture Notes
 
+## 📅 Date: 02-08-2025  
+**By Dr. Priya Darshni Madam**  
+Location: Auditorium  
+Topic: *"Universal Human Values"*
+
+---
+
+## 🌟 Key Concepts:
+
+### 🧠 Right Understanding
+- Understanding the self and surroundings properly.
+- Living with clarity, harmony, and purpose.
+
+### 💞 Relationships
+- Building strong and meaningful relationships.
+- Based on trust, respect, and mutual fulfillment.
+
+### 💪 Physical Activities
+- Importance of maintaining physical health.
+- Balanced routine, exercise, and self-discipline.
+
+### 😊 Happiness
+**Happiness = To be in harmony**
+- Within yourself (thoughts, emotions, values)
+- With others and the environment
+
+---
+
+## 📝 Summary:
+This session taught us that real happiness is not just temporary pleasure but a sustained state of harmony within and around us. Through right understanding and good relationships, we can live a fulfilling and peaceful life.
+
+---
+
+## 📌 Topics to Reflect On:
+- What does happiness mean to you personally?
+- How do your relationships affect your happiness?
 
 
 - 
