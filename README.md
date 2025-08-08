@@ -145,8 +145,6 @@ Renowned Physics Lecturer
 Dr. Jaswins explained the deeper meaning behind the acronym **GOD**, a concept often used to explain values, perception, and clarity in human understanding.
 
 ### 🔤  GOD Breakdown
-- **A** – Awareness  
-- **W** – Wisdom  
 - **G** – Gratitude  
 - **O** – Observation  
 - **D** – Discipline
@@ -158,14 +156,35 @@ To illustrate the meaning of  GOD, Dr. Jaswins conducted a hands-on experiment u
 The experiment aimed to connect scientific observation with internal awareness and discipline.
 
 ## 📸 Media  
-*(You can add images/videos of the lecture or experiment here)*
-
-## 🗂️ Files  
-- `experiment-details.txt`: Steps of the classroom experiment  
-- `aw-god-meaning.md`: Deep explanation of each letter in GOD  
-- `jaswins-lecture-summary.md`: Summary of the full lecture
+*(You can add images/videos of the lecture or experiment 
 
 ---
 
 > "Physics is not just about equations – it's about understanding life through science." – Dr. Jasvinder Singh
 # Day 4
+# 🎓 Orientation Day Highlights
+
+## 📅 Event Overview  
+A vibrant and inspiring Orientation Day filled with knowledge, creativity, and motivation for the new batch of students.
+
+---
+
+## 🧠 Expert Lecture: Universal Human Values  
+**Speaker:** Dr. Priyadarshini  
+**Topic:** Universal Human Values  
+**Venue:** College Auditorium  
+
+Dr. Priyadarshini guided students towards living a more **conscious and value-based life**, encouraging inner awareness and ethical living. 🧠🌟
+
+---
+
+## 🏁 Senior Talk: Motorsport Journey  
+**Speaker:** Gautam Sir (Esteemed Senior)  
+
+Gautam Sir shared his **journey in Motorsports**, inspiring students with his passion, determination, and grit. 🚗🔥
+
+---
+
+## 🚀 Club Showcase: Causmic Club  
+The **Causmic Club** team presented their creative and leadership initiatives, giving freshers a glimpse into the world of **innovation, teamwork, and exploration**. 🚀✨
+
