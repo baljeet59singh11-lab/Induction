@@ -135,5 +135,37 @@ This session taught us that real happiness is not just temporary pleasure but a 
 - What does happiness mean to you personally?
 - How do your relationships affect your happiness?
 
+# Jaswins Physics:  GOD Concept
 
+## 👨‍🏫 Instructor  
+**Dr. Jasvinder Singh (Jaswins)**  
+Renowned Physics Lecturer
+
+## 🧠 Topic: Understanding "GOD"  
+Dr. Jaswins explained the deeper meaning behind the acronym **GOD**, a concept often used to explain values, perception, and clarity in human understanding.
+
+### 🔤  GOD Breakdown
+- **A** – Awareness  
+- **W** – Wisdom  
+- **G** – Gratitude  
+- **O** – Observation  
+- **D** – Discipline
+
+These elements together form a framework to guide students not only in academics but also in life.
+
+## 🔬 Classroom Experiment  
+To illustrate the meaning of  GOD, Dr. Jaswins conducted a hands-on experiment using basic physics principles.  
+The experiment aimed to connect scientific observation with internal awareness and discipline.
+
+## 📸 Media  
+*(You can add images/videos of the lecture or experiment here)*
+
+## 🗂️ Files  
+- `experiment-details.txt`: Steps of the classroom experiment  
+- `aw-god-meaning.md`: Deep explanation of each letter in GOD  
+- `jaswins-lecture-summary.md`: Summary of the full lecture
+
+---
+
+> "Physics is not just about equations – it's about understanding life through science." – Dr. Jasvinder Singh
 - 
