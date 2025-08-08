@@ -168,4 +168,4 @@ The experiment aimed to connect scientific observation with internal awareness a
 ---
 
 > "Physics is not just about equations – it's about understanding life through science." – Dr. Jasvinder Singh
-- 
+# Day 4
