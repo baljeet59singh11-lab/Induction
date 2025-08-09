@@ -187,4 +187,91 @@ Gautam Sir shared his **journey in Motorsports**, inspiring students with his pa
 
 ## 🚀 Club Showcase: Causmic Club  
 The **Causmic Club** team presented their creative and leadership initiatives, giving freshers a glimpse into the world of **innovation, teamwork, and exploration**. 🚀✨
+# Day 5
+# 📅 CSE Timetable - 05-08-25 (Tuesday)
 
+## CSE-A
+**9:00 AM - 12:00 NOON**  
+- **ID Card Formation** (Outside TCC Sem Hall)
+
+---
+
+## CSE-B, C, D, E, F & IT-A, B, C
+
+### ⏰ 9:30 AM - 10:30 AM
+- **P2P Lecture**  
+  - IT-A & IT-B (TCC Sem Hall)
+
+- **Maths Lecture**  
+  - IT-C (Room No. F-107) — Prof. Sandeep Kaur
+
+- **Chemistry Lecture**  
+  - CSE-C (Room No. F-106) — Prof. Mandeep Kaur
+
+- **English Lecture**  
+  - CSE-D & CSE-E (ME Sem Hall) — Prof. Manjot Kaur  
+  - CSE-F (Room No. F-108) — Prof. Aastik
+
+- **English Lecture**  
+  - CSE-C (Room No. F-106) — Prof. Nisha
+
+---
+
+### ⏰ 10:30 AM - 11:30 AM
+- **BEEE Lecture**  
+  - CSE-B (Room No. F-108) — Prof. Harminder Kaur (ECE)  
+  - IT-A & IT-B (TCC Sem Hall) — Prof. Simranjeet Kaur (ECE)  
+  - CSE-D (Room No. F-109) — Prof. Harpreet Kaur (EE)
+
+- **P2P Lecture**  
+  - IT-C (Room No. F-107)
+
+- **Maths Lecture**  
+  - CSE-E & CSE-F (TCC Sem Hall) — Prof. Rajbir Kaur
+
+- **Chemistry Lecture**  
+  - CSE-B (Room No. F-106) — Prof. Mandeep Kaur
+
+---
+
+### ⏰ 11:30 AM - 12:30 PM
+- **BEEE Lecture**  
+  - CSE-E (Room No. F-108) — Prof. Mandeep Kaur (EE)  
+  - CSE-F (Room No. F-109) — Prof. Ranvir Kaur (EE)  
+  - IT-C (Room No. F-107) — Prof. Sukhpal Singh (EE)
+
+- **Maths Lecture**  
+  - CSE-C & CSE-D (ME Sem Hall) — Prof. Gagandeep Kaur & Prof. Sukhinder Singh
+
+---
+
+## CSE-B Only
+**2:00 PM - 4:30 PM**  
+- **ID Card Formation** (Outside TCC Sem Hall)
+
+---
+
+📌 *This timetable is based on the official schedule provided for 05-08-25.*
+# Day 6
+# CML Learning & Growth - Lecture Notes
+
+**Speaker:** Dr. Lakhvir Singh Khanna  
+**Incharge:** CML (Centre for Multifaceted Learning)  
+
+## Overview
+This repository contains notes and key insights from a lecture on:
+- Learning
+- Growth
+- Development
+- Self-grooming activities
+
+## Key Points
+1. **Learning** – Continuous process of acquiring knowledge and skills.
+2. **Growth** – Personal and professional development through consistent effort.
+3. **Development** – Building competencies to face challenges.
+4. **Self-Grooming Activities** – Enhancing personality, confidence, and presentation.
+
+## Purpose
+To document and share valuable takeaways from the CML session, serving as a reference for students and professionals aiming for holistic improvement.
+
+---
